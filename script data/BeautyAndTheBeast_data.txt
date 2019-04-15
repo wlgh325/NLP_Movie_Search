@@ -87,7 +87,6 @@ at	92
 himself	11
 ornate	2
 mirror	17
-	1672
 parties	1
 people	10
 room	23
