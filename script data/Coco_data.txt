@@ -1,4 +1,4 @@
-﻿Word	Count
+Word	Count
 a	502
 path	8
 of	291
